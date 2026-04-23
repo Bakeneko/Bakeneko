@@ -1,0 +1,21 @@
+{
+  "name": "bakeneko-profile",
+  "version": "1.0.0",
+  "private": true,
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "update": "ts-node src/update.ts",
+    "test": "vitest run"
+  },
+  "dependencies": {
+    "firebase-admin": "^12.7.0",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.7.2"
+  },
+  "devDependencies": {
+    "@types/node": "^20.17.0",
+    "vitest": "^2.1.8"
+  }
+}
