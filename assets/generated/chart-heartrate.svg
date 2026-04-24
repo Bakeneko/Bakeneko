@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="108" viewBox="0 0 200 108">
+  <rect width="200" height="108" rx="6" fill="#161b22"/>
+  <text x="100" y="14" text-anchor="middle" font-size="11" font-weight="500" font-family="sans-serif" fill="#ffffff">Heart rate</text>
+  <path d="M 10.0,77.9 L 22.9,57.4 L 35.7,45.8 L 48.6,27.8 L 61.4,38.1 L 74.3,47.1 L 87.1,63.8 L 100.0,50.9 L 112.9,45.8 L 125.7,79.2 L 138.6,71.5 L 151.4,76.6 L 164.3,52.2 L 177.1,39.4 L 190.0,81.7 L 190.0,81.7 L 177.1,86.9 L 164.3,83.0 L 151.4,86.9 L 138.6,86.9 L 125.7,88.2 L 112.9,79.2 L 100.0,66.3 L 87.1,76.6 L 74.3,71.5 L 61.4,63.8 L 48.6,45.8 L 35.7,65.1 L 22.9,80.5 L 10.0,85.6 Z" fill="#f85149" fill-opacity="0.08"/>
+  <path d="M 10.0,83.0 L 22.9,68.9 L 35.7,58.6 L 48.6,35.5 L 61.4,49.7 L 74.3,59.9 L 87.1,68.9 L 100.0,58.6 L 112.9,74.0 L 125.7,83.0 L 138.6,77.9 L 151.4,81.7 L 164.3,75.3 L 177.1,76.6 L 190.0,81.7 L 190.0,92.0 L 10,92.0 Z" fill="#f85149" fill-opacity="0.12"/>
+  <path d="M 10.0,83.0 L 22.9,68.9 L 35.7,58.6 L 48.6,35.5 L 61.4,49.7 L 74.3,59.9 L 87.1,68.9 L 100.0,58.6 L 112.9,74.0 L 125.7,83.0 L 138.6,77.9 L 151.4,81.7 L 164.3,75.3 L 177.1,76.6 L 190.0,81.7" fill="none" stroke="#f85149" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="35.7" y="105" text-anchor="middle" font-size="9" font-family="sans-serif" fill="#8b949e">12</text>
+  <text x="112.9" y="105" text-anchor="middle" font-size="9" font-family="sans-serif" fill="#8b949e">18</text>
+</svg>
