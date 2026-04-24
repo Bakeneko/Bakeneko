@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="108" viewBox="0 0 200 108">
+  <rect width="200" height="108" rx="6" fill="#161b22"/>
+  <text x="100" y="14" text-anchor="middle" font-size="11" font-weight="500" font-family="sans-serif" fill="#ffffff">Heart rate</text>
+  <path d="M 10.0,62.3 L 18.6,66.5 L 27.1,38.2 L 35.7,60.8 L 44.3,49.5 L 52.9,58.0 L 61.4,55.2 L 70.0,63.7 L 78.6,59.4 L 87.1,72.2 L 95.7,69.3 L 104.3,65.1 L 112.9,75.0 L 121.4,52.3 L 130.0,75.0 L 138.6,65.1 L 147.1,65.1 L 155.7,55.2 L 164.3,62.3 L 172.9,28.3 L 181.4,63.7 L 190.0,55.2 L 190.0,60.8 L 181.4,75.0 L 172.9,79.3 L 164.3,76.4 L 155.7,86.3 L 147.1,86.3 L 138.6,87.8 L 130.0,86.3 L 121.4,87.8 L 112.9,86.3 L 104.3,84.9 L 95.7,80.7 L 87.1,72.2 L 78.6,70.8 L 70.0,65.1 L 61.4,69.3 L 52.9,67.9 L 44.3,66.5 L 35.7,70.8 L 27.1,67.9 L 18.6,73.6 L 10.0,69.3 Z" fill="#f85149" fill-opacity="0.08"/>
+  <path d="M 10.0,65.1 L 18.6,70.8 L 27.1,59.4 L 35.7,66.5 L 44.3,58.0 L 52.9,63.7 L 61.4,60.8 L 70.0,65.1 L 78.6,63.7 L 87.1,72.2 L 95.7,75.0 L 104.3,77.8 L 112.9,83.5 L 121.4,82.1 L 130.0,82.1 L 138.6,82.1 L 147.1,76.4 L 155.7,75.0 L 164.3,70.8 L 172.9,59.4 L 181.4,67.9 L 190.0,58.0 L 190.0,92.0 L 10,92.0 Z" fill="#f85149" fill-opacity="0.12"/>
+  <path d="M 10.0,65.1 L 18.6,70.8 L 27.1,59.4 L 35.7,66.5 L 44.3,58.0 L 52.9,63.7 L 61.4,60.8 L 70.0,65.1 L 78.6,63.7 L 87.1,72.2 L 95.7,75.0 L 104.3,77.8 L 112.9,83.5 L 121.4,82.1 L 130.0,82.1 L 138.6,82.1 L 147.1,76.4 L 155.7,75.0 L 164.3,70.8 L 172.9,59.4 L 181.4,67.9 L 190.0,58.0" fill="none" stroke="#f85149" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="121.4" y="105" text-anchor="middle" font-size="9" font-family="sans-serif" fill="#8b949e">06</text>
+  <text x="172.9" y="105" text-anchor="middle" font-size="9" font-family="sans-serif" fill="#8b949e">12</text>
+  <text x="18.6" y="105" text-anchor="middle" font-size="9" font-family="sans-serif" fill="#8b949e">18</text>
+</svg>
