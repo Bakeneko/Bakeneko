@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="108" viewBox="0 0 200 108">
+  <rect width="200" height="108" rx="6" fill="#161b22"/>
+  <text x="100" y="14" text-anchor="middle" font-size="11" font-weight="500" font-family="sans-serif" fill="#ffffff">Heart rate</text>
+  <path d="M 10.0,71.0 L 22.0,66.1 L 34.0,58.0 L 46.0,61.2 L 58.0,69.3 L 70.0,69.3 L 82.0,66.1 L 94.0,51.5 L 106.0,66.1 L 118.0,54.8 L 130.0,35.3 L 142.0,35.3 L 154.0,28.9 L 166.0,30.5 L 178.0,30.5 L 190.0,43.4 L 190.0,49.9 L 178.0,83.9 L 166.0,72.6 L 154.0,72.6 L 142.0,58.0 L 130.0,66.1 L 118.0,71.0 L 106.0,75.8 L 94.0,85.5 L 82.0,87.1 L 70.0,83.9 L 58.0,87.1 L 46.0,83.9 L 34.0,85.5 L 22.0,85.5 L 10.0,83.9 Z" fill="#f85149" fill-opacity="0.08"/>
+  <path d="M 10.0,80.7 L 22.0,82.3 L 34.0,80.7 L 46.0,79.0 L 58.0,82.3 L 70.0,77.4 L 82.0,77.4 L 94.0,74.2 L 106.0,67.7 L 118.0,61.2 L 130.0,53.1 L 142.0,48.3 L 154.0,49.9 L 166.0,45.0 L 178.0,43.4 L 190.0,45.0 L 190.0,92.0 L 10,92.0 Z" fill="#f85149" fill-opacity="0.12"/>
+  <path d="M 10.0,80.7 L 22.0,82.3 L 34.0,80.7 L 46.0,79.0 L 58.0,82.3 L 70.0,77.4 L 82.0,77.4 L 94.0,74.2 L 106.0,67.7 L 118.0,61.2 L 130.0,53.1 L 142.0,48.3 L 154.0,49.9 L 166.0,45.0 L 178.0,43.4 L 190.0,45.0" fill="none" stroke="#f85149" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="82.0" y="105" text-anchor="middle" font-size="9" font-family="sans-serif" fill="#8b949e">06</text>
+  <text x="154.0" y="105" text-anchor="middle" font-size="9" font-family="sans-serif" fill="#8b949e">12</text>
+</svg>
