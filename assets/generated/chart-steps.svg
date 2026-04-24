@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="108" viewBox="0 0 200 108">
+  <rect width="200" height="108" rx="6" fill="#161b22"/>
+  <text x="100" y="14" text-anchor="middle" font-size="11" font-weight="500" font-family="sans-serif" fill="#ffffff">Steps</text>
+  <rect x="8.0" y="42.0" width="23.7" height="52" rx="2" fill="#58a6ff" opacity="0.35"/>
+  <text x="19.9" y="105" text-anchor="middle" font-size="9" font-family="sans-serif" fill="#8b949e">M</text>
+  <rect x="34.7" y="81.0" width="23.7" height="13" rx="2" fill="#58a6ff" opacity="0.35"/>
+  <text x="46.6" y="105" text-anchor="middle" font-size="9" font-family="sans-serif" fill="#8b949e">T</text>
+  <rect x="61.4" y="78.0" width="23.7" height="16" rx="2" fill="#58a6ff" opacity="0.35"/>
+  <text x="73.3" y="105" text-anchor="middle" font-size="9" font-family="sans-serif" fill="#8b949e">W</text>
+  <rect x="88.1" y="70.0" width="23.7" height="24" rx="2" fill="#58a6ff" opacity="0.35"/>
+  <text x="100.0" y="105" text-anchor="middle" font-size="9" font-family="sans-serif" fill="#8b949e">T</text>
+  <rect x="114.9" y="79.0" width="23.7" height="15" rx="2" fill="#58a6ff" opacity="0.35"/>
+  <text x="126.7" y="105" text-anchor="middle" font-size="9" font-family="sans-serif" fill="#8b949e">F</text>
+  <rect x="141.6" y="80.0" width="23.7" height="14" rx="2" fill="#58a6ff" opacity="0.35"/>
+  <text x="153.4" y="105" text-anchor="middle" font-size="9" font-family="sans-serif" fill="#8b949e">S</text>
+  <rect x="168.3" y="92.0" width="23.7" height="2" rx="2" fill="#58a6ff" opacity="1"/>
+  <text x="180.1" y="105" text-anchor="middle" font-size="9" font-family="sans-serif" fill="#8b949e">S</text>
+</svg>

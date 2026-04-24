@@ -1,42 +1,34 @@
-# 👋 Hello there!
+# Stéphane "Bakeneko" Dupont
 
-I'm Stéphane, Fullstack developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> Mâcon, France.
+*Ticket crusher, Git blamer, Goat farmer*
 
-## 🔧 Technologies, Tools & Black Magic
-
-<br>
-
-![Windows](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=6aa6f8)
-![Linux](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=6aa6f8)
-![MacOS](https://img.shields.io/badge/OS-MacOS-informational?style=flat&logo=macos&logoColor=white&color=6aa6f8)
-![VS Code](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=6aa6f8)
-![Visual Studio](https://img.shields.io/badge/Editor-Visual_Studio-informational?style=flat&logo=visual-studio&logoColor=white&color=6aa6f8)
-![Kotlin](https://img.shields.io/badge/Code-Kotlin-informational?style=flat&logo=kotlin&logoColor=white&color=6aa6f8)
-![Java](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=6aa6f8)
-![Flutter](https://img.shields.io/badge/Code-Flutter-informational?style=flat&logo=flutter&logoColor=white&color=6aa6f8)
-![Android](https://img.shields.io/badge/Code-Android-informational?style=flat&logo=android&logoColor=white&color=6aa6f8)
-![TypeScript](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=6aa6f8)
-![React](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=6aa6f8)
-![React Native](https://img.shields.io/badge/Code-React_Native-informational?style=flat&logo=react&logoColor=white&color=6aa6f8)
-![Docker](https://img.shields.io/badge/Tech-Docker-informational?style=flat&logo=docker&logoColor=white&color=6aa6f8)
-![Kubernetes](https://img.shields.io/badge/Tech-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=6aa6f8)
-![GraphQL](https://img.shields.io/badge/Tech-GraphqQL-informational?style=flat&logo=graphql&logoColor=white&color=6aa6f8)
-![MariaDB](https://img.shields.io/badge/DB-MariaDB-informational?style=flat&logo=mariadb&logoColor=white&color=6aa6f8)
-![MongoDB](https://img.shields.io/badge/DB-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=6aa6f8)
-![Bash](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=6aa6f8)
+<div align="center">
+<img src="assets/generated/radar-attributes.svg" alt="Attributes"/>&nbsp;&nbsp;<img src="assets/generated/radar-skills.svg" alt="Skills"/>
+</div>
 
 <br>
 
-## 💬 How to reach me
+<div align="center"><a href="https://bakeneko.app"><img src="https://img.shields.io/badge/Website-bakeneko.app-555555?style=flat-square&logo=googlechrome&logoColor=white" alt="Website"/></a>
+<a href="https://www.linkedin.com/in/bakeneko/"><img src="https://img.shields.io/badge/LinkedIn-bakeneko-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://bsky.app/profile/bakeneko.fr"><img src="https://img.shields.io/badge/Bluesky-bakeneko.fr-0085ff?style=flat-square&logo=bluesky&logoColor=white" alt="Bluesky"/></a>
+<a href="https://www.instagram.com/bakeneko_sama/"><img src="https://img.shields.io/badge/Instagram-bakeneko_sama-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"/></a></div>
 
 <br>
 
-[![Gmail Badge](https://img.shields.io/badge/-aleistor@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:aleistor@gmail.com)](mailto:aleistor@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-bakeneko-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bakeneko/)](https://www.linkedin.com/in/bakeneko)
-[![Twitter Badge](https://img.shields.io/badge/-@bakeneko__chan-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/bakeneko_chan)](https://twitter.com/bakeneko_chan)
+<p align="center">👤&nbsp;<strong>37&nbsp;y/o</strong>&nbsp;&nbsp;·&nbsp;&nbsp;🏠&nbsp;Prissé, France&nbsp;&nbsp;·&nbsp;&nbsp;📍&nbsp;Prissé, France&nbsp;&nbsp;·&nbsp;&nbsp;⛅&nbsp;13.6°C&nbsp;&nbsp;·&nbsp;&nbsp;🟢&nbsp;Open to opportunities</p>
+
+<p align="center">❤️&nbsp;<strong>70&nbsp;bpm</strong>&nbsp;&nbsp;·&nbsp;&nbsp;⚖️&nbsp;<strong>82.4&nbsp;kg</strong>&nbsp;&nbsp;·&nbsp;&nbsp;👣&nbsp;<strong>0&nbsp;steps</strong>&nbsp;&nbsp;·&nbsp;&nbsp;😴&nbsp;<strong>0h54</strong>&nbsp;&nbsp;·&nbsp;&nbsp;🔥&nbsp;<strong>0&nbsp;kcal</strong>&nbsp;&nbsp;·&nbsp;&nbsp;💻&nbsp;<strong>172&nbsp;commits&nbsp;/&nbsp;30d</strong></p>
 
 <br>
 
-![Bakeneko's github stats](https://github-readme-stats.vercel.app/api?username=bakeneko&show_icons=true&theme=tokyonight)
+<div align="center">
+<img src="assets/generated/chart-heartrate.svg" alt="Heart rate"/>&nbsp;<img src="assets/generated/chart-steps.svg" alt="Steps"/>&nbsp;<img src="assets/generated/chart-sleep.svg" alt="Sleep"/>&nbsp;<img src="assets/generated/chart-calories.svg" alt="Calories"/>
+</div>
 
 <br>
+
+<div align="center">
+<img src="assets/generated/media-watching.svg" alt="Watching"/>&nbsp;<img src="assets/generated/media-reading.svg" alt="Reading"/>&nbsp;<img src="assets/generated/media-gaming.svg" alt="Gaming"/>
+</div>
+
+<p align="center"><sub>updated 2026-06-14T23:29:50.365Z</sub></p>
